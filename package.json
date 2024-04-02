@@ -1,0 +1,22 @@
+{
+
+
+  "name": "automation_cypress",
+  "version": "1.0.0",
+  "description": "Automação com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "teste",
+    "automation",
+    "e2e"
+  ],
+  "author": "Gustavo Gaspar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
