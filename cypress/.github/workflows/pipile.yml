@@ -14,4 +14,4 @@ jobs:
           wait-on: 'http://localhost:3000' # Waits for above
           record: true
         env:
-          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+          CYPRESS_RECORD_KEY: d16c05f6-8903-4c66-83f6-d9c55783a2af
